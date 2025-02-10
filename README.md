@@ -9,7 +9,7 @@ This is a simple **Snake Game** implemented in **C++**, which runs in the consol
   - S → Move Down
   - A → Move Left
   - D → Move Right
-- Press `X` to exit the game.
+- Press X to exit the game.
 - The game ends if the snake collides with the wall or its own body.
 
 ## Features
