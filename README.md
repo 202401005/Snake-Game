@@ -1,6 +1,6 @@
 # Snake Game in C++
 
-This is a simple **Snake Game** implemented in **C++**, which runs in the console. The player controls the snake to eat food (`#`) while avoiding collisions with walls or itself.
+This is a simple **Snake Game** implemented in **C++**, which runs in the console. The player controls the snake to eat food (#) while avoiding collisions with walls or itself.
 
 ## How to Play
 
